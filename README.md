@@ -16,6 +16,9 @@ Art Plus Food is an NFT platform where chefs and food creators can sell, buy and
 
 ### Video Demo
 
+UPDATE Video
+
+- https://youtu.be/cdsxpBoe91A
 - https://youtu.be/XmeM7oiXiZI
 
 ### Person of contact
@@ -34,11 +37,7 @@ Overall, users will be able to:
 - mint NFTs
 - exchange recipes
 
-
-
 We believe that Art Plus Food will create a more strong relationship between the food creators and consumers.
-
-
 
 # How it's made
 
@@ -64,7 +63,6 @@ Art Plus Food application makes use of the following softwares:
 
 - `React Js, Material-ui, Web3` React Js for the frontend, Material-ui and Web3 to connect to blockchain.
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,11 +72,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `yarn start`
+
 Runs the app in the development mode.
 
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.
+
 ### `yarn build`
 
 Builds the app for production to the `build` folder.
